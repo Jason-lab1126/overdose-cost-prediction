@@ -23,7 +23,7 @@ Achieved R² Score of **0.995** using XGBoost.
 ## Setup
 📦 Setup Instructions
 1. Clone the repository
-git clone https://github.com/your-username/overdose-cost-prediction.git
+git clone https://github.com/Jason-lab1126/overdose-cost-prediction.git
 cd overdose-cost-prediction
 2. Install required packages
 We recommend setting up a virtual environment (optional but cleaner):
